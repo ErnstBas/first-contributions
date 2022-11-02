@@ -5,7 +5,7 @@
 
 # Eerste bijdragen
 
-De eerste keer dat je iets nieuws probeert is altijd lastig. Vooral wanneer je samenwerkt, kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen je het graag makkelijker maken om te leren en voor de eerste keer bij te dragen aan een open-source project.
+De eerste keer dat je iets nieuws probeert is altijd lastig. Vooral wanneer je samenwerkt, kan het maken van fouten erg vervelend zijn. Maar bij open-source ontkom je niet aan samenwerken. We willen je het graag makkelijker maken om te leren en voor de eerste keer bij te dragen aan een open-source project.
 
 Het is nuttig artikelen te lezen en video's te bekijken, maar niets is beter dan zelf aan de slag te gaan en de kans te krijgen om fouten te maken. Dit project richt zich op het begeleiden van beginners en het ze makkelijk te maken hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Als je op zoek bent om je eerste bijdrage te leveren aan open-source volg dan de onderstaande stappen. Wij beloven je dat je het leuk zal vinden xxxx.
 
